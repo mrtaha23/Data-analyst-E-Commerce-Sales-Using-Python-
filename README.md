@@ -49,10 +49,6 @@ Insight: Identifies top-performing products by demand.
 - Created visualizations using seaborn and matplotlib.
 - Extracted actionable insights and patterns from the data.
 
-## Dashboard
-![Hotel Booking Dasboard](https://github.com/user-attachments/assets/95029133-cb45-4c69-b8e6-d58944fe1612)
-
-
 ## Project Insight
 
 ## Gender & Marital Status: 
