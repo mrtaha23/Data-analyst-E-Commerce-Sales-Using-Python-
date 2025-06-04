@@ -1,34 +1,51 @@
-#E-Commerce-Data-Analysis (Customer Behavior Analysis using Python)
+# E-Commerce-Data-Analysis (Customer Behavior Analysis using Python)
 ## Project Objective
 The goal of this project is to analyze e-commerce customer behavior using Python (pandas, matplotlib, seaborn) to uncover insights about sales trends, customer demographics, product preferences, and regional performance. The dataset contains detailed records of online orders including gender, age, marital status, location, and product categories.
 ## Dataset used
 - <a href="https://github.com/mrtaha23/Data-analyst-E-Commerce-Sales-Using-Python-/blob/main/E-Commerce%20Sales.csv">Dataset</a>
 
-## quesrion (KPIS) Key Performance Indicators
-1. Cancellation Rates by Guest Type:
+## Questions (KPIs) – Key Performance Indicators
+1 Gender-wise Purchase Behavior:
 
-Bar Chart: Visualize the percentage of cancellations for each guest type (couples, families, singles).
-Insight: Identify the guest type with the highest cancellation rate and explore potential reasons.
+Bar Chart: Total number of buyers by gender.
 
-2. Cancellation Rates by Month:
+Insight: Females are the majority buyers and have higher purchasing power.
 
-Line Chart: Plot the monthly cancellation rate over time.
-Insight: Identify seasonal trends or specific months with higher cancellation rates.
+2 Age Group Analysis:
 
-3. Cancellation Rates by Hotel Type:
+Bar Chart: Count of buyers and total amount spent per age group.
 
-Bar Chart: Compare the cancellation rates between the City Hotel and the Resort Hotel.
-Insight: Determine if one hotel type experiences higher cancellations than the other and investigate the reasons.
+Insight: Most buyers are aged 26–35 years, contributing significantly to total sales.
 
-4. Desired vs. Undesired Guests and Cancellations:
+3 State-wise Order & Sales Distribution:
 
-Bar Chart: Compare the cancellation rates between desired and undesired guests.
-Insight: Identify if there's a difference in cancellation behavior between these two groups.
+Bar Chart: Number of orders and amount by state.
 
-5. Correlation between Guest Type and Cancellation:
+Insight: Uttar Pradesh, Maharashtra, and Karnataka are top-performing states.
 
-Heatmap: Visualize the correlation between different guest types and their cancellation rates.
-Insight: Identify any relationships or patterns between these variables.
+4 Marital Status Impact:
+
+Bar Chart: Comparison of married vs. unmarried buyers.
+
+Insight: Married individuals, especially women, drive the majority of purchases.
+
+5 Occupation Sector Impact:
+
+Bar Chart: Number of buyers by profession.
+
+Insight: IT, Healthcare, and Aviation professionals are dominant customers.
+
+6 Product Category Analysis:
+
+Bar Chart: Popular product categories.
+
+Insight: Food, Clothing, and Electronics are the most purchased categories.
+
+7 Product ID Demand:
+
+Bar Chart: Frequency of orders for each product ID.
+
+Insight: Identifies top-performing products by demand.
 
 
 - Dashboard Interaction <a href="https://github.com/mrtaha23/Data-analyst-Hotel-Booking-Dashboard-/blob/main/Hotel%20Booking%20Dasboard.jpg">Dashboard view </a>
