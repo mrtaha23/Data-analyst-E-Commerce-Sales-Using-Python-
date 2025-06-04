@@ -2,7 +2,7 @@
 ## Project Objective
 The goal of this project is to analyze e-commerce customer behavior using Python (pandas, matplotlib, seaborn) to uncover insights about sales trends, customer demographics, product preferences, and regional performance. The dataset contains detailed records of online orders including gender, age, marital status, location, and product categories.
 ## Dataset used
-- <a href="https://github.com/mrtaha23/Data-analyst-Hotel-Booking-Dashboard-/blob/main/Hotel%20booking.xlsx">Dataset</a>
+- <a href="https://github.com/mrtaha23/Data-analyst-E-Commerce-Sales-Using-Python-/blob/main/E-Commerce%20Sales.csv">Dataset</a>
 
 ## quesrion (KPIS) Key Performance Indicators
 1. Cancellation Rates by Guest Type:
