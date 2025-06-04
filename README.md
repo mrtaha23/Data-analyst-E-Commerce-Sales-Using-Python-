@@ -42,6 +42,8 @@ Insight: Identifies top-performing products by demand.
 
 
 - Exploratory Data Analysis (EDA) in Jupyter Notebook <a href="https://github.com/mrtaha23/Data-analyst-E-Commerce-Sales-Using-Python-/blob/main/E_commerce_sale.ipynb">Dashboard view </a>
+### OR 
+- View in pdf : <a href="https://github.com/mrtaha23/Data-analyst-E-Commerce-Sales-Using-Python-/blob/main/E_commerce_sale.ipynb">Dashboard view </a>
 
 ## Process
 - Cleaned and prepared the dataset using pandas.
