@@ -64,13 +64,13 @@ Food, Clothing, and Electronics are the most popular categories.
 
 ## Final Conclusion
 
-## Targeted Campaigns: 
+### Targeted Campaigns: 
 Focus marketing efforts on women aged 26–35 from top-performing states.
-## Product Optimization: 
+### Product Optimization: 
 Stock and promote popular categories and high-demand product IDs.
-## Regional Strategy: 
+### Regional Strategy: 
 Prioritize logistics and advertising in UP, Maharashtra, and Karnataka.
-## Customer Personalization: 
+### Customer Personalization: 
 Use demographic segmentation for better recommendations.
-## Data-Driven Growth: 
+### Data-Driven Growth: 
 Regularly analyze trends to guide business decisions.
