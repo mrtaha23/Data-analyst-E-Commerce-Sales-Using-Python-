@@ -41,7 +41,7 @@ Bar Chart: Frequency of orders for each product ID.
 Insight: Identifies top-performing products by demand.
 
 
-- Dashboard Interaction <a href="https://github.com/mrtaha23/Data-analyst-E-Commerce-Sales-Using-Python-/blob/main/E_commerce_sale.ipynb">Dashboard view </a>
+- Exploratory Data Analysis (EDA) in Jupyter Notebook <a href="https://github.com/mrtaha23/Data-analyst-E-Commerce-Sales-Using-Python-/blob/main/E_commerce_sale.ipynb">Dashboard view </a>
 
 ## Process
 - Cleaned and prepared the dataset using pandas.
