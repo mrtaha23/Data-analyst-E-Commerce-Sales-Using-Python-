@@ -51,15 +51,15 @@ Insight: Identifies top-performing products by demand.
 
 ## Project Insight
 
-## Gender & Marital Status: 
+### Gender & Marital Status: 
 Married women are the primary buyers.
-## Age Group: 
+### Age Group: 
 Buyers aged 26–35 show the highest purchase frequency and amount.
-## Location: 
+### Location: 
 Uttar Pradesh, Maharashtra, and Karnataka have the most buyers.
-## Occupation: 
+### Occupation: 
 IT, Healthcare, and Aviation professionals dominate purchases.
-## Product Trends: 
+### Product Trends: 
 Food, Clothing, and Electronics are the most popular categories.
 
 ## Final Conclusion
